@@ -1,0 +1,15 @@
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\bin\Debug\net6.0\EJERCICIOHERENCIA.exe
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\bin\Debug\net6.0\EJERCICIOHERENCIA.deps.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\bin\Debug\net6.0\EJERCICIOHERENCIA.runtimeconfig.json
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\bin\Debug\net6.0\EJERCICIOHERENCIA.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\bin\Debug\net6.0\EJERCICIOHERENCIA.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.csproj.AssemblyReference.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.AssemblyInfoInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.AssemblyInfo.cs
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.csproj.CoreCompileInputs.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\refint\EJERCICIOHERENCIA.dll
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.pdb
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\EJERCICIOHERENCIA.genruntimeconfig.cache
+C:\Users\CompuStore\Desktop\Universidad\Visual Studio\EJERCICIOHERENCIA\obj\Debug\net6.0\ref\EJERCICIOHERENCIA.dll
